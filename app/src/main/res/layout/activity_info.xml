@@ -5,21 +5,40 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.tainingzhang.tripsharing_v0.info">
+    tools:context="com.example.tainingzhang.tripsharing_v0.info"
+    android:weightSum="1">
+
+
+    <ImageView
+        android:id="@+id/photo1"
+        android:layout_width="match_parent"
+        android:layout_height="164dp"
+        app:srcCompat="@drawable/common_full_open_on_phone" />
+
+    <TextView
+        android:id="@+id/attribution1"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:text="attribution" />
+
+    <ImageView
+        android:id="@+id/photo2"
+        android:layout_width="match_parent"
+        android:layout_height="165dp"
+        app:srcCompat="@drawable/common_full_open_on_phone" />
+
+    <TextView
+        android:id="@+id/attribution2"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:text="attribution" />
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight= "1"
-        >
+        android:layout_height="215dp"
+        android:layout_weight="0.98">
 
     </FrameLayout>
-
-    <ListView
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_weight= "1"
-        />
 
     <Button
         android:id="@+id/button2"
@@ -27,4 +46,5 @@
         android:layout_height="wrap_content"
         android:onClick="viewOnClick"
         android:text="view people want to go there" />
+
 </LinearLayout>

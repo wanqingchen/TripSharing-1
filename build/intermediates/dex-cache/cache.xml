@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/45b8ecd2893b71fa4551e5a2f3fcdcd0e584d3d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e1e36f05c4fef9207f89e42cc1213d47d4045a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/a545dfbb373fc2b0ba85d77378b094d7eeea6825/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5eac318dd1b607d6cbf06d9c003d778bb110f97e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/6db7321c7fad643a9bcf2ce77ba37ac8860b98f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4061a849526ad6007b4907112ac3462cd6c52831/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/41af493e1927a5372fa34c69ff4f703858e91742/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c00ed9a50f1a51390ad56418bcedc7567844d44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/4cb5fbe86b56a1fdfb69b0d8e6ce603e52e8e2fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec44709705e42ecedaa80fa600f4cbcc28444252/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/32cfb0c2b3849f4a5695dca66981edb0e3d7fd74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_106c5341fc6f7da4e025bcbe2dc94862e53f8e02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b0b93babd262d7078612a7de3b830a44d996c31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/c76cc4fccdb55c5b52eceb9ed16cd7615dcda437/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ac80adca215eac51bd5f001b527018ad200a9a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/2d5e737e0a53cb4548389828a0f8d74997ae822e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa8db37b652b21c421a7eedb1b6eb6be3b3d61ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/1e03ad285cd7a5bcf6e3a2d23e55e589a5b3e9cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_804b5a567b97075058ee3322ee7ddb2ec0a18820/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/d75481fb88366a8e433731b51f8e7d44cc68bdea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_878e448cb622339d4810e610d1e5fb41db387de0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="608df3be9d68c464f0365ddeec218a40ca2af829">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fedf559f64e450dea903cbaf37903c7db901019a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_99f3a8d0e22c0e19c7c1cf2662a90b2d64139d50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/a6f805c94e864b25bd3b525f3a20cdf71dd1a940/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56b2847468329320b4fbc1a81072a86c265e3568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/02c0cfd6851351276281db0aa0701048584dbcb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52600f4df88f39dd8b52e26b022353617119971f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_a812f548b2db3d69ee1e500b95fc20b556206d7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/83ac1a7767e97f9f89a2191e58878782137d1582/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_497718688fc73d4c4868510b22595fd404ff84ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/356299544880fac3b868d3f4810412ec45ff7331/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bab213698b80c2b94f9a6bc0b1b431aec9526397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/083f9a78a5e194f03de01ffc307ca224580218bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5ea4c8a5b2d4ec9e943868f671803efbaa5acd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/f2f09e403cd3acb1df8a0db859b8dfdcc862959b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d9fa51cb512bfc2baac7844883298b0ee8ad5ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/2615d67735c7285678eb59d1cd5e5dbf2f7e4879/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bad2f04f29fcabfd830db258791dcf427ccfaba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mochi/.android/build-cache/030095d35337befd13a1fc92fec8f3e6144e52cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/TripSharing_v0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bc8282fe777d55c5673ff75fc47e5fa58c3b694/classes.dex" />
+    </item>
+
+</items>

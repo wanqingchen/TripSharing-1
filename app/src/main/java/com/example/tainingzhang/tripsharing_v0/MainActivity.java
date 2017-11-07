@@ -1,9 +1,14 @@
 package com.example.tainingzhang.tripsharing_v0;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.text.Html;
+import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -14,8 +19,17 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.google.android.gms.common.api.Status;
+import com.google.android.gms.location.places.Place;
+import com.google.android.gms.location.places.ui.PlaceAutocompleteFragment;
+import com.google.android.gms.location.places.ui.PlaceSelectionListener;
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    private static final String TAG = "MainActivity";
+    private String placeID = "";
+    private static String id = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,11 +55,45 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        // The PlaceSelectionListener handles returning a place in response to the user's selection.
+        PlaceAutocompleteFragment autocompleteFragment = (PlaceAutocompleteFragment)
+                getFragmentManager().findFragmentById(R.id.place_autocomplete_fragment);
+
+        autocompleteFragment.setOnPlaceSelectedListener(new PlaceSelectionListener() {
+            @Override
+            public void onPlaceSelected(Place place) {
+                // TODO:Get info about the selected place.
+                placeID = place.getId().toString();
+                Log.i(TAG, "Place: " + place.getName());
+            }
+
+            @Override
+            public void onError(Status status) {
+                // TODO:Handle the error.
+                Log.i(TAG, "An error occurred: " + status);
+            }
+        });
     }
+
+    private void getID() {
+        id = placeID;
+    }
+
+    public static String getPlaceID() {
+        return id;
+    }
+
     public void onClickSearch(View v) {
-        Intent i = new Intent(getApplicationContext(), info.class);
-        startActivity(i);
+        if (placeID != "") {
+            Log.d(TAG, placeID);
+            getID();
+            getPlaceID();
+            Intent i = new Intent(getApplicationContext(), Photos.class);
+            startActivity(i);
+        }
     }
+
     @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
