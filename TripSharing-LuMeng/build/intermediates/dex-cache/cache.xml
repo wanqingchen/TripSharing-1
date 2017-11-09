@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/caozhongli/.android/build-cache/7ce8c4dc7458fcb433911c72c8a79de81900af1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/caozhongli/Desktop/TripSharing-LuMeng/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b16c76c7fce787d65215a2a73462f1c59071df35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caozhongli/.android/build-cache/ee31fc31161690baaedfcbaacc96599538fbd23c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/caozhongli/Desktop/TripSharing-LuMeng/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a513722f7f7594bcc08423d43fe0769d0dd285b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caozhongli/.android/build-cache/2c2df78a1b0503a5da4c20586048b9fb8e337305/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/caozhongli/Desktop/TripSharing-LuMeng/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b612cc2e08176a2e1aa81bfc9ffa2815b05680a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caozhongli/Desktop/TripSharing-LuMeng/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01accb6c13c68efb7595fa5200245dd9d6852299">
+        <dex dex="/Users/caozhongli/Desktop/TripSharing-LuMeng/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_27b23652bbe3d967b8b6ce8f595ad4e6a0765b7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caozhongli/Desktop/TripSharing-LuMeng/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/caozhongli/Desktop/TripSharing-LuMeng/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c17cc49fcddcb2ebde317084da7f9d5126216a18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caozhongli/.android/build-cache/bed9e06d2315e13d7c0e49b58b7059c11e4c7c58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/caozhongli/Desktop/TripSharing-LuMeng/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d2699d28c50fa21cf580560b872710f21c5a163/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caozhongli/.android/build-cache/23d89adbd4e309757026bb6ba812e358514d023a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/caozhongli/Desktop/TripSharing-LuMeng/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2ef2a2725050c6692522085570bc93db703c382/classes.dex" />
+    </item>
+
+</items>
