@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "916490788160",
+    "firebase_url": "https://tripshare-300c3.firebaseio.com",
+    "project_id": "tripshare-300c3",
+    "storage_bucket": "tripshare-300c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916490788160:android:68dd4e21f657a91b",
+        "android_client_info": {
+          "package_name": "com.example.tainingzhang.tripsharing_v0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916490788160-g2158kuvu3k48i4f5rtl5t58g20ki97i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tainingzhang.tripsharing_v0",
+            "certificate_hash": "2e4eaff9d7b825ed1152f4d489b9f9ce77fc874e"
+          }
+        },
+        {
+          "client_id": "916490788160-j4lael12jugm20dc05jhlvni2khnmgrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tainingzhang.tripsharing_v0",
+            "certificate_hash": "1fac38705f7f6a518eef48622cfdffaa41bd8fe1"
+          }
+        },
+        {
+          "client_id": "916490788160-cjkanv268ai28agkd3pg3bav3bfafgr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tainingzhang.tripsharing_v0",
+            "certificate_hash": "69380357215d7c7be3171d862b9c5f3869e55a30"
+          }
+        },
+        {
+          "client_id": "916490788160-j4vs2njln7vck9n64k0rck6nkviki6a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WLY-axjM1eaAKlVSE9tcRjHbrHXS1I8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916490788160-j4vs2njln7vck9n64k0rck6nkviki6a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

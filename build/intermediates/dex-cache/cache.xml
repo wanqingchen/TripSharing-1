@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/492f9eba3394a49def804ba2825451a8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.4.0.aar/ed9e3f42795e8002af3ff90d10a0ca36/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/93fd98d7b34faedf81c69bf4df4be5f0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/9aedc48e2261e61938362b5e69378220/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a2cfb2fe14219d82dc60b789de02ffef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5d2caf02fb67ac3073040ada1e23281c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/791dabcef0d62e27074dfa2ac04ef967/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.4.0.aar/e4b75e14c24c51c65b259eab66b2ad31/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/5a737158769f923fd0be6b438a43af90/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.4.0.aar/4b79d24b8e2a07e0a95f742ec12420a6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ba5f22ca5575c930799263c475be992a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1bd6311dd4b7773827e21ccdf2a59e0f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e4664188e732f2499ee5a10976b52ef8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/70e73f7aa91c0d1b9716da5ce7cedc3a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1647b9c42e53409bc5c25f2d905e60a5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/f7546a5b2f180c7925c942356876b87d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.4.0.aar/a12554445a6e07bae10b5b0ffdc803e7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9739e9f1aec5a3c7462099a01691d7c2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/11acd8169a5121dcd47c754af9c2c3dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/cebba5352391961b43e9d9d7ed50425b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d8109536ec70eb4b248f374ab5f7c8af/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ca67f7817e998ee00cfa1524da175a67/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/34edfba284e2e8fcc7d28fec870d8492/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b548d2c2db487557567da85c26effbc2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/fbc53f57fd6efaf4569c285cdf9910a8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/firebase-database-9.4.0.aar/750113d622da18e967f2f41ea2623b15/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/189e58f5cf9be5c7c7ad29d5665ac881/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3ad376a8d17266a8f8a0cd079198b0f5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mochi/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/Mochi/Desktop/Study/Comp150-MOB/TripSharing/final_version/TripSharing/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+
+</items>
