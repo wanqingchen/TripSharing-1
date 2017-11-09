@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }
-
+    public void onClickSearch(View v) {
+        Intent i = new Intent(MainActivity.this, info.class);
+        startActivity(i);
+    }
 
 }

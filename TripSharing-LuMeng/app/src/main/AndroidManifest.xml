@@ -32,10 +32,15 @@
             android:name=".info"
             android:label="@string/title_activity_info"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".showDetail"></activity>
+        <activity android:name=".showDetail" />
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCpFj_fVGrZ-ZhTvyqFM7QyqPYdaFItoZg"/>
+            android:value="AIzaSyCpFj_fVGrZ-ZhTvyqFM7QyqPYdaFItoZg" />
+
+        <activity android:name=".profileActivity" />
+        <activity android:name=".userinfoActivity" />
+        <activity android:name=".RegitrationActivity"></activity>
     </application>
 
 </manifest>

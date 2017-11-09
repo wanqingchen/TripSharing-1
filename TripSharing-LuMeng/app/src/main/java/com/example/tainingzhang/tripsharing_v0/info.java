@@ -42,6 +42,7 @@ public class info extends AppCompatActivity {
     ListView listView;
     FirebaseDatabase database;
     DatabaseReference myRef;
+
     Context context;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -145,6 +146,7 @@ public class info extends AppCompatActivity {
                                 @Override
                                 public void onClick(View view) {
                                     String comments = editText.getText().toString();
+
                                     Comments c = new Comments("James", comments);
                                     String id = Comment.push().getKey();
                                     Comment.child(id).setValue(c);
